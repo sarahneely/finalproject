@@ -35,7 +35,7 @@
   font-size: 40px !important;
 }
 
-/*==========BODY============*/
+/*==========CONTENT============*/
 .about {
   background-color: #DEDDE4;
 }
@@ -51,4 +51,15 @@
 
 .lorem {
   word-wrap: normal;
+}
+
+.content2 {
+  padding-top: 20px;
+  background-color: #DEDDE4;
+}
+
+.my_work {
+  text-align: center;
+  font-family: 'Rock Salt', cursive;
+  color: #353f11;
 }
